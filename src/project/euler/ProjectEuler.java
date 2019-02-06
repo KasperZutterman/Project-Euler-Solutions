@@ -18,6 +18,7 @@ public class ProjectEuler {
         // TODO code application logic here
         System.out.println("p001: " + new p001().run());
         System.out.println("p002: " + new p002().run());
+        System.out.println("p003: " + new p003().run());
     }
     
 }
