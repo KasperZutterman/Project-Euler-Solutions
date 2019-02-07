@@ -21,6 +21,7 @@ public class ProjectEuler {
         System.out.println("p003: " + new p003().run());
         System.out.println("p004: " + new p004().run());
         System.out.println("p005: " + new p005().run());
+        System.out.println("p006: " + new p006().run());
     }
     
 }
